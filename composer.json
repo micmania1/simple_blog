@@ -1,0 +1,16 @@
+{
+    "name": "micmania1/simple_blog",
+    "description": "Simple blog theme for micmania1/silverstripe-blog",
+    "type": "silverstripe-theme",
+    "require": {
+        "silverstripe/blog": "*"
+    },
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Michael Strong",
+            "email": "micmania@hotmail.co.uk"
+        }
+    ],
+    "minimum-stability": "dev"
+}
