@@ -3,7 +3,8 @@
     "description": "Simple blog theme for micmania1/silverstripe-blog",
     "type": "silverstripe-theme",
     "require": {
-        "silverstripe/blog": "*"
+	"silverstripe/simple": "*",
+        "micmania1/silverstripe-blogger": "*"
     },
     "license": "BSD-2-Clause",
     "authors": [
