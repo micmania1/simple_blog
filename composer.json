@@ -4,7 +4,7 @@
     "type": "silverstripe-theme",
     "require": {
 	   "silverstripe-themes/simple": "*",
-        "micmania1/silverstripe-blogger": "*"
+        "micmania1/silverstripe-blog": "1.0.*"
     },
     "license": "BSD-2-Clause",
     "authors": [
